@@ -12,7 +12,7 @@ EasyInk is an application that seamlessly blends simplicity with cutting-edge fe
    
 Experience the future of note-taking with EasyInk — where simplicity meets sophistication, and your ideas are ready to flourish like never before. 
 
-This website has been deployed on [vercel]()
+This website has been deployed on [vercel](https://easy-ink-advanced-note-taking-app.vercel.app/)
 
 ---
 
