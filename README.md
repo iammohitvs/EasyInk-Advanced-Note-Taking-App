@@ -55,4 +55,4 @@ Please do reach out with any sort of feedback, criticism, or advice. I'm extreme
 
 P.S. If somebody can figure out what is wrong with the sidenav when the modal to add a new note is opened please do let me know. I have spent a long time trying to figure it out but am not able to.
 
-Note: I fixed it now. Some issue with its position being fixed. adjusted the dislay to be flex.
+Note: It's fixed it now. Some issue with its position being fixed. Adjusted the display to be flex.
