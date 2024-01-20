@@ -5,4 +5,3 @@ export default function deleteNote(notes, setNotes, noteId) {
 
     setNotes(newNotes);
 }
-

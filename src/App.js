@@ -21,7 +21,7 @@ function App() {
 
     return (
         <NotesContext.Provider value={notesValue}>
-            <div className="flex flex-col md:flex-row h-[100%]">
+            <div className="flex flex-col md:flex-row self-start h-[100%]">
                 <div className="z-100">
                     {isModalOpen && (
                         <Modal
