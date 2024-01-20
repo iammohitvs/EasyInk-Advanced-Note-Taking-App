@@ -29,7 +29,7 @@ export const notesSeed = [
         noteId: "38a63c89-43dc-4cd9-bac3-90fd1c7e29ac",
         noteTitle: "Push day",
         noteBody: "Try and push for 12 reps on the bench",
-        noteTag: "favorite",
+        noteTag: "gym",
     },
     {
         noteId: "2f89f0c9-37d5-4106-87a8-a820886c458c",

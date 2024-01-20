@@ -21,7 +21,7 @@ function App() {
 
     return (
         <NotesContext.Provider value={notesValue}>
-            <div className="flex flex-row h-[100%]">
+            <div className="flex flex-col md:flex-row h-[100%]">
                 <div className="z-100">
                     {isModalOpen && (
                         <Modal
@@ -41,7 +41,6 @@ function App() {
                     setIsModalOpen={setIsModalOpen}
                     setNotesWindow={setNotesWindow}
                     setTagsWindow={setTagsWindow}
-                    className={`${isModalOpen && "pointer-events-none"}`}
                 />
                 {notesWindow && (
                     <NotesWindow notes={notes} setNotes={setNotes} />

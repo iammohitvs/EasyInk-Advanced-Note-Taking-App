@@ -10,7 +10,7 @@ export default function TagsWindow() {
     const { notes, setNotes } = useContext(NotesContext)
 
     return (
-        <div className="ml-[320px] p-[20px] w-[100%]">
+        <div className="grow p-[20px] w-[100%]">
             <h1 className="text-3xl mb-[16px] pb-[12px] border-b-2 font-semibold">
                 Tags
             </h1>
